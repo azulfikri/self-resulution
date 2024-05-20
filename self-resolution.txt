@@ -1,7 +1,6 @@
 SELF RESOLUTION
 - Konsisten Belajar Programming
 - No Rasa Malas
-- Konsisten Berlatih
 - Konsisten Latihan Programming
 - Mengurangi bermain dengan hal hal yg kurang bermanfaat
 - To be a FullStack Developer
