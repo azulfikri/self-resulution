@@ -3,4 +3,5 @@ SELF RESOLUTION
 - No Rasa Malas
 - Konsisten Berlatih
 - Konsisten Latihan Programming
+- Mengurangi bermain dengan hal hal yg kurang bermanfaat
 - To be a FullStack Developer
